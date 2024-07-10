@@ -1,4 +1,4 @@
-**Spam Email Detector**
+## Spam Email Detector
 
 This is a GUI application that detects spam emails using a Naive Bayes classifier. The model is trained on a dataset of labeled email texts. The application allows users to input email text, get real-time predictions, and view detailed model evaluation metrics.
 
