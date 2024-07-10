@@ -28,7 +28,7 @@ This is a GUI application that detects spam emails using a Naive Bayes classifie
 
 1. Run the application:
    ```bash
-   python spam_detector.py
+   python main.py
    ```
 
 2. The GUI will open. Enter email text in the provided input area to get a spam prediction.
